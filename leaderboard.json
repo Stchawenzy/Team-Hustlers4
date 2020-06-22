@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Romeo",
+        "age": "54",
+        "gender": "Male",
+        "language": "Javascript",
+        "points": "5"
+    },
+    {
+        "name": "Emmanuel",
+        "age": "59",
+        "gender": "Male",
+        "language": "Php",
+        "points": "8"
+    },
+    {
+        "name": "Stchawenzy",
+        "age": "19",
+        "gender": "Male",
+        "language": "Nodejs",
+        "points": "3"
+    }
+]
