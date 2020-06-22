@@ -1,0 +1,175 @@
+ *{
+   
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+}
+.side-nav{
+    background-color: #239EE3;
+    height: 100%;
+    
+    color: #fff;
+}
+.logo{
+    margin-top: 30px;
+}
+.logo p{
+    border: 1px solid #fff;
+    padding: 10px;
+    color: #000;
+    font-size: 1.5rem;
+    background-color: #fff;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.main h2{
+    padding: 30px 0;
+}
+.row .col-md-3{
+    padding-left: 0;
+    padding-right: 0;
+}
+ ul{
+    list-style: none;
+}
+ ul li {
+    padding: 10px 0 10px 30px;
+}
+.btn-active{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    display: inline-block;
+}
+ ul li a{
+    color: #fff;   
+}
+ ul li a:hover{
+    text-decoration: none;
+} 
+
+/* leaderbaord section here */
+.row .col-md-9{
+    padding-left: 0;
+    padding-right: 0;
+}
+.share{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid  #239EE3;
+    border-bottom: 1px solid #239EE3;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.share-logo{
+    width: 50px;
+    height: 50px;
+}
+.profile{
+    display: flex;
+    
+}
+ .avatar{
+    border: 2px solid#000;
+    border-radius: 100%;
+    padding: 10px;
+    height: 60px;
+    width: 60px;
+}
+.profile-text{
+    padding-left: 20px;
+    
+}
+.profile-text h5{
+    color: #239EE3;
+}
+.profile-text p{
+    font-size: 24px;
+    font-weight: bold;
+}
+.share-button{
+    display: flex;
+}
+.social-button{
+    display: flex;
+    flex-direction: column;
+}
+.social-icon p{
+    font-size: 18px;
+}
+.twitter, .facebook{
+}
+
+/* leaderbaord */
+.leaderboard{
+    margin: 0 auto;
+}
+.leaderboard .row{
+    padding: 20px;
+    display: flex;
+    margin: 0 auto;
+}
+h4{
+    color: #239EE3;
+    padding-top: 15px;
+    font-size: 18px;
+}
+.leaderboard .avatar{
+    margin: 0 auto;
+}
+p.text-center{
+    color: #239EE3;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 5px #E5E5E5;
+}
+.point{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* others section */
+.avatar-list{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #239EE3;
+    align-items: center;
+    padding: 5px;
+    margin: 5px auto;
+    width: 1000px;
+
+}
+.avatar1{
+    border: 2px solid#000;
+    border-radius: 100%;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+}
+.col-md-9 h2{
+    color: #239EE3;
+    padding: 10px 20px;
+}
+span{
+    color: #000;
+}
+input{
+    border: 1px solid #239EE3;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+input:hover{
+    border: 1px solid #239EE3;
+}
+.leaderboard-name{
+    padding-top: 20px;
+}
