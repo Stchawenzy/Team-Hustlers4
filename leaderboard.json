@@ -1,65 +1,65 @@
 [
     {
-        "name": "Romeo",
+        "name": "Emmanuel",
         "age": "54",
         "gender": "Male",
         "language": "Javascript",
-        "points": "5"
+        "points": "18"
     },
     {
-        "name": "Emmanuel",
+        "name": "Romeo",
         "age": "59",
         "gender": "Male",
         "language": "Php",
-        "points": "8"
+        "points": "15"
     },
     {
         "name": "Stchawenzy",
         "age": "19",
         "gender": "Male",
         "language": "Nodejs",
-        "points": "3"
+        "points": "13"
     },
     {
         "name": "Elihjawale",
         "age": "34",
         "gender": "Male",
         "language": "Ruby",
-        "points": "2"
+        "points": "11"
     },
     {
         "name": "Eminence",
         "age": "52",
         "gender": "Male",
         "language": "Jquery",
-        "points": "4"
+        "points": "9"
     },
     {
         "name": "Mimi",
         "age": "13",
         "gender": "Female",
         "language": "Nodejs",
-        "points": "6"
+        "points": "9"
     },
     {
         "name": "Adeyemi",
         "age": "25",
         "gender": "Male",
         "language": "C++",
-        "points": "4"
+        "points": "7"
     },
     {
         "name": "Ife",
         "age": "37",
         "gender": "Female",
         "language": "Php",
-        "points": "1"
+        "points": "5"
     },
     {
         "name": "Bob",
         "age": "12",
         "gender": "Male",
         "language": "C#",
-        "points": "8"
+        "points": "3"
     }
 ]
